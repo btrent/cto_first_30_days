@@ -90,7 +90,7 @@
 
 ### Image credits
 
-![Credits](../slides/credits.jpeg)
+![Credits](./slides/credits.jpeg)
 
 > Here are the credits for all the images used throughout this presentation.
 
