@@ -1,1 +1,1 @@
-# cto_first_30_days
+This is a Technology due dilligence presentation template that can be used by a new CTO after the first 30-90 days on the job.
